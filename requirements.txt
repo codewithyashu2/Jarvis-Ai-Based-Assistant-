@@ -1,0 +1,23 @@
+# Core Dependencies
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pyaudio==0.2.13
+pywin32==305
+
+# System & Automation
+psutil==5.9.5
+pyautogui==0.9.54
+Pillow==10.1.0
+
+# Knowledge & Information
+wikipedia==1.4.0
+pyjokes==0.6.0
+requests==2.31.0
+
+# Optional (for additional features)
+screen-brightness-control==0.21.0
+
+# Note: 
+# - If pyaudio fails, use: pip install pipwin && pipwin install pyaudio
+# - pywin32 is required for Windows TTS
+# - Some features require API keys (see README.md)
