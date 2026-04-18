@@ -271,6 +271,6 @@ If you have any questions or need help, feel free to:
 
 ---
 
-**Made with 💙 by Yogesh Kumar **
+**Made with 💙 by Yogesh Kumar**
 
 *Don't forget to ⭐ this repo if you found it helpful!*
