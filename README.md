@@ -267,12 +267,10 @@ If you find this project useful, please consider giving it a star!
 ## 📞 Support
 
 If you have any questions or need help, feel free to:
-- Open an [issue](https://github.com/yourusername/jarvis-ai-assistant/issues)
-- Start a [discussion](https://github.com/yourusername/jarvis-ai-assistant/discussions)
 - Contact me via email
 
 ---
 
-**Made with 💙 by [Your Name]**
+**Made with 💙 by Yogesh Kumar **
 
 *Don't forget to ⭐ this repo if you found it helpful!*
