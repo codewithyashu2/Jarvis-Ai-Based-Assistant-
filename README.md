@@ -258,12 +258,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all open-source contributors
 - Built with ❤️ using Python
 
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/jarvis-ai-assistant&type=Date)](https://star-history.com/#yourusername/jarvis-ai-assistant&Date)
-
 ## 📞 Support
 
 If you have any questions or need help, feel free to:
